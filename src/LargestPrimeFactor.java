@@ -65,7 +65,7 @@ public class LargestPrimeFactor
 
         System.out.print("\nThe prime factors of " + numberToCheck + " are ");
 
-        // For lip that iterates through the list and prints out the prime numbers.
+        // For loop that iterates through the list and prints out the prime numbers.
         for (long Long : factorList)
         {
             // Checks to see if not at the end of the list. If not, add a comma...
